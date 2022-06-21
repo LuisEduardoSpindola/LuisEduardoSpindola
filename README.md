@@ -1,7 +1,7 @@
 <h1 style='color: #000080;'>Bem Vindo</h1>
 
 - 🔭 Atualmente trabalhando com React Native
-- 🌱 Estudando PHP e Python 
+- 🌱 Estudando PHP e React
 - 📫 O meu Email é: eduardospindola.alves@gmail.com 
 
 <br>
