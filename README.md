@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=839cb5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=839cb5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Eduardo+Spindola;Tenho+18+anos;Técnico+em+Informática;Cursando+Sistemas+de+Informação;Seja+Bem+Víndo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=839cb5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Eduardo+Spindola;Tenho+19+anos;Técnico+em+Informática;Cursando+Sistemas+de+Informação;Seja+Bem+Víndo!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -18,7 +18,7 @@
    
   
   <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b>Visitantes até agora</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisEduardoSpindola}/count.svg" /></p> 
   <br>
   </div>
