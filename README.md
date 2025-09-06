@@ -18,8 +18,6 @@
    
   
   <div align="center">
-  <br><p align="centre"><b>Visitantes até agora</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisEduardoSpindola}/count.svg" /></p> 
   <br>
   </div>
   
